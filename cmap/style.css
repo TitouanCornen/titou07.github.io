@@ -1,9 +1,9 @@
 #canvasMap{
      
       position: absolute;
-        width : 3200px;
-        height : 3200px;
-		z-index: 500;
+        width : 320px;
+        height : 320px;
+		z-index: 50;
 }
 
 #legende {

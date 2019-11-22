@@ -1,0 +1,18 @@
+div#map{
+	position: center;
+	background-color: blue;
+	background-color: white;
+  	color: #000;
+ 	 position: center;
+ 	 width: 500px;
+ 	 height:250px;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+ 	 text-align: center;
+  	border-color:#0000 ;
+  	padding-top: 100px;
+}
+h1{
+
+	text-align: center;
+}
